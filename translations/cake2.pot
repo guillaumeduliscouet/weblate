@@ -1,6 +1,6 @@
 
 #: Lib/DateUtil.php:2665
-msgid "in about an hour"
+msgid "in_about_an_hour"
 msgstr ""
 
 #: Lib/DateUtil.php:2666
