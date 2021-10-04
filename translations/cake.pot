@@ -14,8 +14,8 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: Lib/DateUtil.php:2472
-msgid "%s ago"
-msgstr ""
+msgid "age_ago"
+msgstr "%s ago"
 
 #: Lib/DateUtil.php:2473
 msgid "on %s"
