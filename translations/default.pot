@@ -16,13 +16,13 @@ msgstr ""
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:390
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:97
 #: Plugin/Api/Controller/ApiOnboardV1Controller.php:198
-msgid "Début de HLP. Récup hist. %s"
+msgid "start_hlp_historical_recovery"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:448
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:153
 #: Plugin/Api/Controller/ApiOnboardV1Controller.php:241
-msgid "Début HLP historique : %s"
+msgid "start_historical_hlp"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:502
@@ -31,13 +31,13 @@ msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:508
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:451
-msgid "Historique non traité car il n'a pas été démaré : %s"
+msgid "history_not_processed"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:530
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:472
 #: Plugin/Api/Controller/ApiOnboardV1Controller.php:361
-msgid "Fin HLP historique : %s"
+msgid "end_historical_hlp"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:591
@@ -50,7 +50,7 @@ msgstr ""
 #: Plugin/ToPlace/View/ToPlaceAlerts/view.ctp:95
 #: Plugin/ToSchool/Controller/ToSchoolStatisticsController.php:391
 #: Plugin/ToSchool/View/Alerts/view.ctp:141
-msgid "Historique de course"
+msgid "historical_trip"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:613
@@ -59,7 +59,7 @@ msgstr ""
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:148
 #: Plugin/Api/Controller/ApiToPlaceOnboardV1Controller.php:2563
 #: Plugin/Api/Controller/ApiToSchoolOnboardV2Controller.php:214
-msgid "Course relancée. Nouvel historique"
+msgid "trip_relaunched_historical_news"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:635
@@ -69,28 +69,28 @@ msgstr ""
 #: Plugin/Api/Controller/ApiToPlaceOnboardV1Controller.php:2584
 #: Plugin/Api/Controller/ApiToSchoolOnboardV2Controller.php:240
 #: Plugin/Api/Test/Case/Controller/ApiToPlaceOnboardV17ControllerTest.php:416
-msgid "Course relancée. Récup historique"
+msgid "trip_relaunched_historical_recovery"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:768
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:347
 #: Plugin/Api/Controller/ApiNetworkV7Controller.php:198
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:315
-msgid "Pas d'historique pour le système %s"
+msgid "no_history_for_systems"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:800
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:382
 #: Plugin/Api/Controller/ApiNetworkV7Controller.php:250
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:350
-msgid "Sup Historique : %s"
+msgid "historical_sup"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:808
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:390
 #: Plugin/Api/Controller/ApiNetworkV7Controller.php:262
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:358
-msgid "Raz Historique : %s"
+msgid "historical_raz"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:823
@@ -98,5 +98,5 @@ msgstr ""
 #: Plugin/Api/Controller/ApiNetworkV7Controller.php:284
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:373
 #: Plugin/Api/Test/Case/Controller/ApiToPlaceOnboardV17ControllerTest.php:159
-msgid "Fin historique : %s"
+msgid "historical_en"
 msgstr ""
