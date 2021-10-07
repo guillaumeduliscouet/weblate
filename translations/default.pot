@@ -26,7 +26,7 @@ msgid "start_historical_hlp"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:502
-msgid "Historique inconnu, trip_id : %s pour le %s"
+msgid "unknown_history"
 msgstr ""
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:508
