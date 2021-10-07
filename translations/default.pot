@@ -100,3 +100,15 @@ msgstr ""
 #: Plugin/Api/Test/Case/Controller/ApiToPlaceOnboardV17ControllerTest.php:159
 msgid "historical_en"
 msgstr ""
+
+#: Lib/DateUtil.php:2637
+msgid "d_minute"
+msgid_plural "d_minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: Lib/DateUtil.php:2640
+msgid "d_seconde"
+msgid_plural "d_secondes"
+msgstr[0] ""
+msgstr[1] ""
