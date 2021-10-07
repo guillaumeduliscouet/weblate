@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-10-07 13:16+0000\n"
+"PO-Revision-Date: 2021-10-07 15:31+0000\n"
 "Last-Translator: Weblate Admin <admin@email.com>\n"
 "Language-Team: English <http://weblate.local:3001/projects/2cloud/default/en/"
 ">\n"
@@ -105,3 +105,6 @@ msgstr "Historical end: %s"
 
 msgid "baby"
 msgstr "baby"
+
+msgid "sugar_cane"
+msgstr "sugar cane"
