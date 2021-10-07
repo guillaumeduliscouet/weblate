@@ -4,43 +4,43 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-10-07 12:49+0000\n"
+"PO-Revision-Date: 2021-10-07 12:20+0000\n"
 "Last-Translator: Weblate Admin <admin@email.com>\n"
-"Language-Team: French <http://weblate.local:3001/projects/2cloud/default/fr/>"
-"\n"
-"Language: fr\n"
+"Language-Team: English <http://weblate.local:3001/projects/2cloud/default/en/"
+">\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.8\n"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:390
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:97
 #: Plugin/Api/Controller/ApiOnboardV1Controller.php:198
 msgid "start_hlp_historical_recovery"
-msgstr "Début de HLP. Récup hist. %s"
+msgstr "Beginning of HLP. Hist. recovery %s"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:448
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:153
 #: Plugin/Api/Controller/ApiOnboardV1Controller.php:241
 msgid "start_historical_hlp"
-msgstr "Début HLP historique : %s"
+msgstr "Historical HLP start: %s"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:502
 msgid "unknown_history"
-msgstr "Historique inconnu, trip_id : %s pour le %s"
+msgstr "History unknown, trip_id: %s for the %s"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:508
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:451
 msgid "history_not_processed"
-msgstr "Historique non traité car il n'a pas été démaré : %s"
+msgstr "History not processed because it has not been started: %s"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:530
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:472
 #: Plugin/Api/Controller/ApiOnboardV1Controller.php:361
 msgid "end_historical_hlp"
-msgstr "Fin HLP historique : %s"
+msgstr "Historical HLP end: %s"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:591
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:183
@@ -53,7 +53,7 @@ msgstr "Fin HLP historique : %s"
 #: Plugin/ToSchool/Controller/ToSchoolStatisticsController.php:391
 #: Plugin/ToSchool/View/Alerts/view.ctp:141
 msgid "historical_trip"
-msgstr "Historique de course"
+msgstr "Trip History"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:613
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:223
@@ -62,7 +62,7 @@ msgstr "Historique de course"
 #: Plugin/Api/Controller/ApiToPlaceOnboardV1Controller.php:2563
 #: Plugin/Api/Controller/ApiToSchoolOnboardV2Controller.php:214
 msgid "trip_relaunched_historical_news"
-msgstr "Course relancée. Nouvel historique"
+msgstr "Trip relaunched. New history"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:635
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:245
@@ -72,28 +72,28 @@ msgstr "Course relancée. Nouvel historique"
 #: Plugin/Api/Controller/ApiToSchoolOnboardV2Controller.php:240
 #: Plugin/Api/Test/Case/Controller/ApiToPlaceOnboardV17ControllerTest.php:416
 msgid "trip_relaunched_historical_recovery"
-msgstr "Course relancée. Récup historique"
+msgstr "Trip relaunched. Historical recovery"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:768
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:347
 #: Plugin/Api/Controller/ApiNetworkV7Controller.php:198
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:315
 msgid "no_history_for_systems"
-msgstr "Pas d'historique pour le système %s"
+msgstr "No history for the %s system"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:800
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:382
 #: Plugin/Api/Controller/ApiNetworkV7Controller.php:250
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:350
 msgid "historical_sup"
-msgstr "Sup Historique : %s"
+msgstr "Sup History: %s"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:808
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:390
 #: Plugin/Api/Controller/ApiNetworkV7Controller.php:262
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:358
 msgid "historical_raz"
-msgstr "Raz Historique : %s"
+msgstr "Historical Raz: %s"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:823
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:410
@@ -101,4 +101,4 @@ msgstr "Raz Historique : %s"
 #: Plugin/Api/Controller/ApiToPlaceOnboardV17Controller.php:373
 #: Plugin/Api/Test/Case/Controller/ApiToPlaceOnboardV17ControllerTest.php:159
 msgid "historical_en"
-msgstr "Fin historique : %s"
+msgstr "Historical end: %s"
