@@ -111,3 +111,15 @@ msgstr "canne à sucre"
 
 msgid "computer_science"
 msgstr "informatique"
+
+#: Lib/DateUtil.php:2637
+msgid "d_minute"
+msgid_plural "d_minutes"
+msgstr[0] "%d minute"
+msgstr[1] "%d minutes"
+
+#: Lib/DateUtil.php:2640
+msgid "d_seconde"
+msgid_plural "d_secondes"
+msgstr[0] "%d seconde"
+msgstr[1] "%d secondes"
