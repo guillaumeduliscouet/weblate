@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-10-08 08:27+0000\n"
+"PO-Revision-Date: 2021-10-09 13:44+0000\n"
 "Last-Translator: Weblate Admin <admin@email.com>\n"
 "Language-Team: English <http://weblate.local:3001/projects/2cloud/default/en/"
 ">\n"
@@ -111,3 +111,15 @@ msgstr "sugar cane"
 
 msgid "computer_science"
 msgstr "computer science"
+
+#: Lib/DateUtil.php:2637
+msgid "d_minute"
+msgid_plural "d_minutes"
+msgstr[0] "%d minute"
+msgstr[1] "%d minutes"
+
+#: Lib/DateUtil.php:2640
+msgid "d_seconde"
+msgid_plural "d_secondes"
+msgstr[0] "%d second"
+msgstr[1] "%d seconds"
