@@ -123,6 +123,3 @@ msgid "d_seconde"
 msgid_plural "d_secondes"
 msgstr[0] "%d seconde"
 msgstr[1] "%d secondes"
-
-msgid "qsddssdsqd"
-msgstr "sdsqdq"
