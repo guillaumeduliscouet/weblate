@@ -4,16 +4,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-10-09 13:44+0000\n"
+"PO-Revision-Date: 2021-10-18 16:02+0000\n"
 "Last-Translator: Weblate Admin <admin@email.com>\n"
-"Language-Team: English <http://weblate.local:3001/projects/2cloud/default/en/"
-">\n"
+"Language-Team: English <http://weblate.local/projects/2cloud/default/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.8.1\n"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:390
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:97
@@ -123,3 +122,6 @@ msgid "d_seconde"
 msgid_plural "d_secondes"
 msgstr[0] "%d second"
 msgstr[1] "%d seconds"
+
+msgid "cfg.default.test.root"
+msgstr "Powerful is your name !"
