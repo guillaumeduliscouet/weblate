@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-10-18 14:24+0000\n"
+"PO-Revision-Date: 2021-10-18 16:02+0000\n"
 "Last-Translator: Weblate Admin <admin@email.com>\n"
 "Language-Team: French (Canada) <http://weblate.local/projects/2cloud/default/"
 "fr-CA/>\n"
@@ -123,3 +123,6 @@ msgstr "canne à sucre"
 
 msgid "computer_science"
 msgstr "informatique"
+
+msgid "cfg.default.test.root"
+msgstr "Puissant est ton nom !"
