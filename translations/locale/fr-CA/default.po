@@ -4,20 +4,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-10-21 09:00+0000\n"
+"Last-Translator: Weblate Admin <admin@email.com>\n"
+"Language-Team: French (Canada) <http://weblate.local/projects/2cloud/default/"
+"fr-CA/>\n"
 "Language: fr-CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.8.1\n"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:390
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:97
 #: Plugin/Api/Controller/ApiOnboardV1Controller.php:198
+#, fuzzy
 msgid "start_hlp_historical_recovery"
-msgstr ""
+msgstr "Début de HLP. Récup hist. %s"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:448
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:153
