@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-10-22 09:42+0000\n"
+"PO-Revision-Date: 2021-10-24 07:47+0000\n"
 "Last-Translator: Weblate Admin <admin@email.com>\n"
 "Language-Team: English <http://weblate.local/projects/2cloud/default/en/>\n"
 "Language: en\n"
@@ -128,3 +128,6 @@ msgstr "Powerful is your name !"
 
 msgid "cfg.default.test_three.root"
 msgstr "en2"
+
+msgid "cfg.accm.test_three.root_test_three"
+msgstr "Hello"
