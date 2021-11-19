@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-10-26 15:02+0000\n"
+"PO-Revision-Date: 2021-11-19 13:46+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.local/projects/2cloud/default/fr/>\n"
 "Language: fr\n"
@@ -140,3 +140,12 @@ msgstr "fij"
 
 msgid "cfg.default.t.root"
 msgstr "T BONJOUR"
+
+msgid "cfg.accm.customer_country.root"
+msgstr "fr"
+
+msgid "cfg.default.customer_delivery_line1.root"
+msgstr "FRFR"
+
+msgid "cfg.sti_centre.customer_delivery_line1.root"
+msgstr "FRFRfdfdg"
