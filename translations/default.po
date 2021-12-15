@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-11-19 13:46+0000\n"
+"PO-Revision-Date: 2021-12-15 14:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.local/projects/2cloud/default/fr/>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.8.1\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: Plugin/Api/Controller/ApiNetworkV2Controller.php:390
 #: Plugin/Api/Controller/ApiNetworkV6Controller.php:97
@@ -149,3 +149,6 @@ msgstr "FRFR"
 
 msgid "cfg.sti_centre.customer_delivery_line1.root"
 msgstr "FRFRfdfdg"
+
+msgid "2c.fare_manager.title"
+msgstr "Formulaire de tarif"
