@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"PO-Revision-Date: 2021-12-15 14:15+0000\n"
+"PO-Revision-Date: 2021-12-17 10:32+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.local/projects/2cloud/default/fr/>\n"
 "Language: fr\n"
@@ -152,3 +152,9 @@ msgstr "FRFRfdfdg"
 
 msgid "2c.fare_manager.title"
 msgstr "Formulaire de tarif"
+
+msgid "cfg.accm.customer_delivery_line1.root"
+msgstr "Chez ACCM"
+
+msgid "cfg.default.customer_delivery_line11.root"
+msgstr "Chez ACCM"
